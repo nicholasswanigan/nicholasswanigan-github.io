@@ -43,3 +43,4 @@ This project contains files and styles for Nicholas Swanigan's personal website.
   - **Responsive Design**: Media queries ensuring responsiveness across various devices.
 
 "# nicholasswanigan-github.io" 
+"# nicholasswanigan-github.io" 
